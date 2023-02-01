@@ -16,6 +16,24 @@ This repository highlights snippets of code from the codebase as examples of wha
 
 This project is solely documentaiton of our findings. We understand that there are missing pieces to the codebase, and we will continue to refine the docs as we learn more. What we've shared here is solely for educational purposes and to encourage a stronger understand of how information retrieval, natural language processing, and neural networks operate for web search engines.
 
+### Table of Contents
+The documentation repository is organized two ways. By the directory structure of the codebase and By the different information retrieval concern. 
+
+#### Information Retrieval Concern
+
+1. [Crawling](docs/crawling/index.md)
+2. [Indexing](docs/crawling/index.md)
+3. [Query Processing](docs/crawling/index.md)
+4. [Ranking](docs/crawling/index.md)
+
+#### Directory Structure
+
+1. [Kernel](docs/crawling/index.md)
+2. [Robot](docs/crawling/index.md)
+3. [Search](docs/crawling/index.md)
+4. [Extsearch](docs/crawling/index.md)
+5. [MatrixNet](docs/crawling/index.md)
+
 ## Contributions
 Getting involved is quite simple. If you'd like to contribute, you can simply submit a pull request. If you'd like to join the discussions about the project, come join our Slack community, The Index. We've got an on-going conversation where we discuss what we've found and how to get things in the code to work.
 
